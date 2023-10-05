@@ -3,7 +3,7 @@
 /* General styles*/
 /*Define your own styles in this stylesheet*/
 body{
-	background-color: rgba(246,246,246,1.00);
+	background-color: rgb(0, 0, 0);
 }
 h1, h2, h3, h4, h5, h6{
 	font-family: 'montserrat' , sans-serif;
@@ -23,16 +23,16 @@ p{
 
 /* Link styles*/
 a {
-	color: rgba(146,146,146,1.00);
+	color: rgb(255, 255, 255);
 }
 a:visited {
-	color: rgba(146,146,146,1.00);
+	color: rgba(40, 31, 102, 0.172);
 }
 a:hover {
 	color: rgba(255,255,255,1.00);
 }
 .linkStyle {
-	color: rgba(146,146,146,1.00);
+	color: rgba(1255,255,255,1.00);
 	font-family: 'montserrat', sans-serif;
 	font-style: normal;
 	font-weight: 100;
@@ -47,7 +47,7 @@ a:hover {
 }
 .heroHeader {
 	height: 450px;
-	background-color: rgba(208,207,207,1.00);
+	background-color: rgb(15, 7, 55);
 }
 /* Navigation styles*/
 .topNavUl {
@@ -56,7 +56,7 @@ a:hover {
     padding-bottom: 20px;
 }
 .topNavLI {
-	text-align: center;
+	text-align: left;
 }
 /* Typography styles*/
 .textStyle {
@@ -69,7 +69,7 @@ a:hover {
 	/* [disabled]font-family: 'montserrat', sans-serif; */
 	/* [disabled]font-style: normal; */
 	/* [disabled]font-weight: 400; */
-	color: rgba(146,146,146,1.00);
+	color: rgb(0, 0, 0);
 	font-size: 32px;
 }
 .mainHeading {
@@ -104,7 +104,7 @@ a:hover {
 	font-family: alice, sans-serif;
 	font-style: normal;
 	font-weight: 400;
-	color: rgba(146,146,146,1.00);
+	color: rgb(255, 255, 255);
 	line-height: 1.8;
 	margin-left: 5%;
 	margin-right: 5%;
@@ -131,7 +131,7 @@ a:hover {
 	background-color: rgba(208,207,207,1.00);
 }
 .secondaryHeading {
-	color: rgba(255,255,255,1.00);
+	color: rgb(0, 0, 0);
 	text-align: center;
 }
 /*Footer styles*/
